@@ -1,0 +1,7 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "1.4.1"
+  }
+}
